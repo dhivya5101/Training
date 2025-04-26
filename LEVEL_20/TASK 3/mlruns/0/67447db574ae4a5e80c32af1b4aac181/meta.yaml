@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/lenovo/Desktop/Multi-Model%20Comparison/mlruns/0/67447db574ae4a5e80c32af1b4aac181/artifacts
+end_time: 1745068928252
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 67447db574ae4a5e80c32af1b4aac181
+run_name: RandomForest
+run_uuid: 67447db574ae4a5e80c32af1b4aac181
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745068925536
+status: 3
+tags: []
+user_id: lenovo

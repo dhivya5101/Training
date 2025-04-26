@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/lenovo/Desktop/Multi-Model%20Comparison/mlruns/0/0802f77d4e104b9eb2ab39026d8f2787/artifacts
+end_time: 1745068925520
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0802f77d4e104b9eb2ab39026d8f2787
+run_name: LinearRegression
+run_uuid: 0802f77d4e104b9eb2ab39026d8f2787
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745068921160
+status: 3
+tags: []
+user_id: lenovo

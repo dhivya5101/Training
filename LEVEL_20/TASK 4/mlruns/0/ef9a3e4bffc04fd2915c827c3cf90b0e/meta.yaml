@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/ef9a3e4bffc04fd2915c827c3cf90b0e/artifacts
+end_time: 1745051041407
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ef9a3e4bffc04fd2915c827c3cf90b0e
+run_name: agreeable-moose-708
+run_uuid: ef9a3e4bffc04fd2915c827c3cf90b0e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745051037078
+status: 3
+tags: []
+user_id: lenovo

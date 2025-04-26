@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/5b111bce24544cb4a3ecb5eaec998cb9/artifacts
+end_time: 1745051188109
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5b111bce24544cb4a3ecb5eaec998cb9
+run_name: polite-worm-505
+run_uuid: 5b111bce24544cb4a3ecb5eaec998cb9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745051181729
+status: 3
+tags: []
+user_id: lenovo
