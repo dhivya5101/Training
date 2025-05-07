@@ -10,7 +10,7 @@ Dhivya N
 
 ## Phase - 1
 
-### ✅ Levels Completed: 26
+### ✅ Levels Completed: 27
 
 ---
 
@@ -44,3 +44,4 @@ Dhivya N
 | Level_24  | Bonus                   |
 | Level_25  | Bonus                   |
 | Level_26  | None                    |
+| Level_27  | None                    |
